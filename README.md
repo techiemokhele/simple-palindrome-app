@@ -8,3 +8,5 @@ Key concepts covered :-
 4.) reverse()
 5.) join()
 6.) innerHTML
+
+See the web app here: https://techiemokhele.github.io/simple-palindrome-app/
