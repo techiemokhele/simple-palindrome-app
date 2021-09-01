@@ -10,3 +10,5 @@ Key concepts covered :-
 6.) innerHTML
 
 See the web app here: https://techiemokhele.github.io/simple-palindrome-app/
+
+![image](https://user-images.githubusercontent.com/67394147/131594217-340e6b37-4c32-469e-b28d-dc69b18d22c0.png)
